@@ -62,6 +62,5 @@ This project analyzes Netflix's movies and TV shows dataset to uncover trends in
 - SQL Scripts
 - Python Notebook
 - Power BI Dashboard (.pbix)
-- Dashboard Screenshots
 - Project Documentation
 
